@@ -1,4 +1,4 @@
-package ru.mirea.laba_10;
+package ru.mirea.laba_11;
 
 import java.util.Arrays;
 

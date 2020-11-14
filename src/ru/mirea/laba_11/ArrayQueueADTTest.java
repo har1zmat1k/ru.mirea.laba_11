@@ -1,4 +1,4 @@
-package ru.mirea.laba_10;
+package ru.mirea.laba_11;
 
 public class ArrayQueueADTTest {
     public static void fill(ArrayQueueADT stack) {
